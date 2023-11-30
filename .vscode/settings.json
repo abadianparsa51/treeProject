@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#500C56",
+        "titleBar.activeBackground": "#711178",
+        "titleBar.activeForeground": "#FEFCFF"
+    },
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.allowChords": false,
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+    "window.autoDetectColorScheme": false
+}

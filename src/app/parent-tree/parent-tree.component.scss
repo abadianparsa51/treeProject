@@ -1,0 +1,55 @@
+.mt5 {
+    margin-top: 5px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.mt15 {
+    margin-top: 15px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mb5 {
+    margin-bottom: 5px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.mb15 {
+    margin-bottom: 15px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb60 {
+    margin-bottom: 60px;
+}
+
+.example-card {
+
+    height: 590px;
+    overflow: auto;
+    padding: 16px;
+
+
+}
+
+mat-list-item {
+    height: auto !important;
+    border: 1px solid silver !important;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
